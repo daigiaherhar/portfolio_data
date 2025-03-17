@@ -1,0 +1,36 @@
+[
+  {
+    "id":"1",
+    "title":"TRMe",
+    "logo":"https://daigiaherhar.github.io/portfolio/logo_trme.png",
+    "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
+    "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>",
+    "html": {
+      "vi": "<p><span style=\"color: #ffffff;\">Tích hợp Google Fit và Apple có plugin hỗ trợ<br /></span></p> <p><span style=\"color: #ffffff;\">Tích hợp API thứ 3 của Fitbit và Garmin</span></p><p><span style=\"color: #ffffff;\">Universal Links app<br /></span></p><p><span style=\"color: #ffffff;\">Dùng state management GetX</span></p> <p><span style=\"color: #ffffff;\">Dùng Firebase để realtime chat và notification</span></p> <p><span style=\"color: #ffffff;\">Dùng mô hình MVC</span></p> <p><span style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/search?q=trme&amp;c=apps\">https://play.google.com/store/apps/details?id=com.nuskin.tr90.sea</a></span></p>",
+      "en": "<p><span style=\"color: #ffffff;\">Google Fit and Apple integration with plugin support<br /></span></p><p style=\"color: #ffffff;>Fitbit and Garmin 3rd Party API Integration</p><p><span style=\"color: #ffffff;\">Universal Links app<br /></span></p><p><span style=\"color: #ffffff;\">Use state management GetX</span></p><p><span style=\"color: #ffffff;\">Use firebase for realtime chat and notification</span></p><p><span style=\"color: #ffffff;\">Use MVC pattern</span></p><p><span style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/search?q=trme&amp;c=apps\">https://play.google.com/store/apps/details?id=com.nuskin.tr90.sea</a></span></p>"
+    }
+  },
+  {
+    "id":"1",
+    "title":"Warranty",
+    "logo":"https://daigiaherhar.github.io/portfolio/logo_warranty.jpg",
+    "html":{
+      "en":"<p style=\"color: #ffffff;\">Integrate GRAB and Nhat Tin API</p><p style=\"color: #ffffff;\">Use state management GetX</p><p style=\"color: #ffffff;\">Use Firebase for notification</p><p style=\"color: #ffffff;\">Pattern MVC</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty</a></p>",
+      "vi":"<p style=\"color: #ffffff;\">Tích hợp API của GRAB và Nhất Tín</p><p style=\"color: #ffffff;\">Dùng state management GetX</p><p style=\"color: #ffffff;\">Dùng Firebase cho notification</p><p style=\"color: #ffffff;\">Mô hình MVC</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty</a></p>"
+    },
+    "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
+    "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
+  },
+  {
+    "id":"1",
+    "title":"Office",
+    "logo":"https://daigiaherhar.github.io/portfolio/logo_office.jpg",
+    "html":{
+      "en":"<p style=\"color: #ffffff;\">Use FPT API to scan CCCD/CMND</p><p style=\"color: #ffffff;\">Pattern MVVM</p><p style=\"color: #ffffff;\">Use state management Bloc</p><p style=\"color: #ffffff;\">Use Firebase for notification and real-time</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/search?q=nsvn%20office&c=apps</a></p>",
+      "vi":"<p style=\"color: #ffffff;\">Dùng API của FPT quét CCCD/CMND</p><p style=\"color: #ffffff;\">Mô hình MVVM</p><p style=\"color: #ffffff;\">Dùng state management Bloc</p><p style=\"color: #ffffff;\">Dùng Firebase cho notification và real-time số chờ</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/search?q=nsvn%20office&c=apps</a></p>"
+
+    },
+    "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
+    "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
+  }
+]
