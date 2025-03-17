@@ -1,9 +1,9 @@
 {
     "dashboard":{
-        "name":"Xin Chào\nTôi tên Đoàn Thanh Tùng",
+        "name":"Xin Chào\nTôi là Đoàn Thanh Tùng",
         "en":"Tiếng Anh",
         "vi":"Tiếng Việt",
-        "description":"123"
+        "description":"Là một chuyên gia CNTT tại HCM, với hơn 2 năm trong lĩnh vực, mang theo ý chí không ngại khó khăn, luôn đổi mới, tôi sẽ có giá trị."
     },
     "test":"123"
 }
