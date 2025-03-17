@@ -3,18 +3,25 @@
     "id":"1",
     "title":"Zalo",
     "logo":"https://daigiaherhar.github.io/portfolio_data/Icon_zalo.png",
-    "link":"zalo.me/0906100493"
+    "link":"https://zalo.me/0906100493"
+  },
+  {
+    
+    "id":"1",
+    "title":"Facebook",
+    "logo":"https://daigiaherhar.github.io/portfolio_data/icon_fb.png",
+    "link":"https://www.facebook.com/profile.php?id=100005098451791"
   },
   {
     "id":"1",
-    "title":"Zalo",
-    "logo":"https://daigiaherhar.github.io/portfolio_data/Icon_zalo.png",
-    "link":"zalo.me/0906100493"
+    "title":"Tiktok",
+    "logo":"https://daigiaherhar.github.io/portfolio_data/icon_tiktok.png",
+    "link":"https://www.tiktok.com/@tungdoan.etqa"
   },
   {
     "id":"1",
-    "title":"Zalo",
-    "logo":"https://daigiaherhar.github.io/portfolio_data/Icon_zalo.png",
-    "link":"zalo.me/0906100493"
+    "title":"Github",
+    "logo":"https://daigiaherhar.github.io/portfolio_data/icon_github.png",
+    "link":"https://github.com/daigiaherhar"
   }
 ]
