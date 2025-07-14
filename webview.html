@@ -113,11 +113,12 @@
             document.getElementById('result1').textContent = field1Value;
             document.getElementById('result2').textContent = field2Value;
             document.getElementById('result').style.display = 'block';
-            var value = {
-                'value1':field1Value,
-                'value2':field2Value
-            };
-            JSBridge.postMessage(value);
+            // var value = {
+            //     'value1':field1Value,
+            //     'value2':field2Value
+            // };
+            Value1.postMessage(field1Value);
+            Value2.postMessage(field2Value);
             console.log('Dữ liệu đã nhập:', {
                 field1: field1Value,
                 field2: field2Value
